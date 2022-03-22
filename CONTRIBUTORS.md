@@ -14,7 +14,7 @@ The following people have contributed to this project.
 * Jacob Hirschberg (likes beer)
 * Josh Wolpert
 * Laurent Roberge (Hello from New Orleans!)
-* Safiya Alpheus (I like potatoes) 
+* Safiya Alpheus (I like potatoes)
 * Emily Bamber (I love my dog, sorry for getting distracted and playing with her during ESPIn 2021)
 * Angel Monsalve (That is me)
 * Conner Lester (I drink too much coffee)
@@ -26,3 +26,5 @@ The following people have contributed to this project.
 * Mariel Nelson (later today I'm gonna play dark souls 2)
 * Mark Piper (I like to ride my bike)
 * Muneer, why are you so slow?
+* Allison Pfeiffer (Is finally taking the time to master the git/github basics,
+  using these great CSDMS/ESPIn resources. Thanks, folks!)
